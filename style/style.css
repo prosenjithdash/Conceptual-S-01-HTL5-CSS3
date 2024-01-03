@@ -57,10 +57,17 @@ font-size: 2rem;
 .cows{
     display: flex;
     gap: 20px;
+    justify-content: center;
 }
 .cows div{
     width: 300px;
 }
 .cows img{
     width: 100%;
+    height: 50%;
+    
+}
+.cow h2{
+    padding-top: 20px;
+    padding-bottom: 55px;
 }
