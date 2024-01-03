@@ -8,13 +8,15 @@
 
 .hero{
     background-image: url('../image/cow.webp');
-    width: 800px;
+    width: full;
     height: 500px;
+    margin: 10px;
+    border-radius: 20px;
 }
 
  .hero h1 {
     text-align: center;
-    color: red;
+    color: rgb(201, 235, 246);
     font-size: 80px;
     font-family: 'Courier New', Courier, monospace;
     font-weight: bolder;
